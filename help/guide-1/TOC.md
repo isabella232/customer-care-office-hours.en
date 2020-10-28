@@ -6,6 +6,10 @@ user-guide-description: This is a description for the user guide that will be di
 # Customer Care Office Hours {#using}
 
 + [Overview](overview.md)
++ Analytics {#analytics}
+  + [Introduction to Analytics](analytics-intro.md)
++ Target {#target}
+  + [Introduction to Target](target-intro.md)
 
 <!--
 
